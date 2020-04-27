@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 4\Lesson6\Lesson6\obj\Debug\Lesson6.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 4\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 4\Lesson6\Lesson6\bin\Debug\Lesson6.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 4\Lesson6\Lesson6\bin\Debug\Lesson6.exe
+W:\Module\Softwareentwicklung\2019\Übung 4\Lesson6\Lesson6\bin\Debug\Lesson6.pdb
+W:\Module\Softwareentwicklung\2019\Übung 4\Lesson6\Lesson6\obj\Debug\Lesson6.exe
+W:\Module\Softwareentwicklung\2019\Übung 4\Lesson6\Lesson6\obj\Debug\Lesson6.pdb

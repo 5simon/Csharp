@@ -1,0 +1,10 @@
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\bin\Debug\LanguageTrainer.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\bin\Debug\LanguageTrainer.exe
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\bin\Debug\LanguageTrainer.pdb
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.Form1.resources
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.Properties.Resources.resources
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.csproj.GenerateResource.cache
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.exe
+W:\Module\Softwareentwicklung\2019\Übung 11\LanguageTrainer\LanguageTrainer\obj\Debug\LanguageTrainer.pdb

@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 1\Errors\Errors\bin\Debug\Errors.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 1\Errors\Errors\bin\Debug\Errors.exe
+W:\Module\Softwareentwicklung\2019\Übung 1\Errors\Errors\bin\Debug\Errors.pdb
+W:\Module\Softwareentwicklung\2019\Übung 1\Errors\Errors\obj\Debug\Errors.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 1\Errors\Errors\obj\Debug\Errors.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 1\Errors\Errors\obj\Debug\Errors.exe
+W:\Module\Softwareentwicklung\2019\Übung 1\Errors\Errors\obj\Debug\Errors.pdb

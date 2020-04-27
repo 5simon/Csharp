@@ -1,0 +1,6 @@
+W:\Module\Softwareentwicklung\2019\Übung 1\Calcs\Calcs\bin\Debug\Calcs.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 1\Calcs\Calcs\bin\Debug\Calcs.exe
+W:\Module\Softwareentwicklung\2019\Übung 1\Calcs\Calcs\bin\Debug\Calcs.pdb
+W:\Module\Softwareentwicklung\2019\Übung 1\Calcs\Calcs\obj\Debug\Calcs.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 1\Calcs\Calcs\obj\Debug\Calcs.exe
+W:\Module\Softwareentwicklung\2019\Übung 1\Calcs\Calcs\obj\Debug\Calcs.pdb

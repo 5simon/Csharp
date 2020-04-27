@@ -1,0 +1,14 @@
+W:\Module\Softwareentwicklung\2019\Übung 3\Dice\Dice\bin\Debug\Dice.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 3\Dice\Dice\bin\Debug\Dice.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Dice\Dice\bin\Debug\Dice.pdb
+W:\Module\Softwareentwicklung\2019\Übung 3\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 3\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 3\Dice\Dice\obj\Debug\Dice.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Dice\Dice\obj\Debug\Dice.pdb
+C:\Users\smon9\Desktop\SWE_2019\Dice\Dice\bin\Debug\Dice.exe.config
+C:\Users\smon9\Desktop\SWE_2019\Dice\Dice\bin\Debug\Dice.exe
+C:\Users\smon9\Desktop\SWE_2019\Dice\Dice\bin\Debug\Dice.pdb
+C:\Users\smon9\Desktop\SWE_2019\Dice\Dice\obj\Debug\Dice.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Dice\Dice\obj\Debug\Dice.csproj.CoreCompileInputs.cache
+C:\Users\smon9\Desktop\SWE_2019\Dice\Dice\obj\Debug\Dice.exe
+C:\Users\smon9\Desktop\SWE_2019\Dice\Dice\obj\Debug\Dice.pdb

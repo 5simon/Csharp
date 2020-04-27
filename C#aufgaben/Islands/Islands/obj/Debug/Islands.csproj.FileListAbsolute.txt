@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 3\Islands\Islands\bin\Debug\Islands.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 3\Islands\Islands\bin\Debug\Islands.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Islands\Islands\bin\Debug\Islands.pdb
+W:\Module\Softwareentwicklung\2019\Übung 3\Islands\Islands\obj\Debug\Islands.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 3\Islands\Islands\obj\Debug\Islands.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Islands\Islands\obj\Debug\Islands.pdb
+W:\Module\Softwareentwicklung\2019\Übung 3\Islands\Islands\obj\Debug\Islands.csprojAssemblyReference.cache

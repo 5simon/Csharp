@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 2\Cinderella\Cinderella\bin\Debug\Cinderella.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 2\Cinderella\Cinderella\bin\Debug\Cinderella.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Cinderella\Cinderella\bin\Debug\Cinderella.pdb
+W:\Module\Softwareentwicklung\2019\Übung 2\Cinderella\Cinderella\obj\Debug\Cinderella.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Cinderella\Cinderella\obj\Debug\Cinderella.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Cinderella\Cinderella\obj\Debug\Cinderella.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Cinderella\Cinderella\obj\Debug\Cinderella.pdb

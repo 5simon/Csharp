@@ -1,0 +1,103 @@
++----------------------------+
+|        + Projekt           |
+|----------------------------|
+| - name: string             |
+| - budget: double           |
+| ---------------------------|
+| + Projekt(newName: string) |
+| + getName(): string        |
+| - setName(value: string)   |
+| + getBudget(): double      |
+| - setBudget(value: double) |
++----------------------------+
+
+
+
++---------------------------------------------------------------------------+
+|                            - Mitarbeiter                                  |
+|                              {abstract}                                   |
+|---------------------------------------------------------------------------|
+| - nextId: int                                                             |
+|   -----------                                                             |
+| - vorname: string                                                         |
+| - nachname: string                                                        |
+| - id: int                                                                 |
+| - gehalt: double                                                          |
+|---------------------------------------------------------------------------|
+| + Mitarbeiter(newVorname: string, newNachname: string, newGehalt: double) |
+| + getVorname(): string                                                    |
+| - setVorname(value: string)                                               |
+| + getNachname(): string                                                   |
+| - setNachname(value: string)                                              |
+| + getId(): int                                                            |
+| - setId(value: int)                                                       |
+| + getGehalt(): double                                                     |
+| - setGehalt(value: double)                                                |
++---------------------------------------------------------------------------+
+
+
+
+
+                +-------------+
+		| Mitarbeiter |
+                +-------------+
+                       ^
+                       |
+                       |
++---------------------------------------------+
+|            + Projektmitarbeiter             |
+|---------------------------------------------|
+| - hauptProjekt: Projekt                     |
+|---------------------------------------------|                +---------+
+| + Projektmitarbeiter(hauptProjekt: Projekt) | <>------------ | Projekt |
+| + getHauptProjekt(): Projekt                |                +---------+
+| + setHauptProjekt(value: Projekt)           |
++---------------------------------------------+
+
+
+
+
+
+
+                +-------------+
+		| Mitarbeiter |
+		+-------------+
+                       ^
+                       |
+                       |
++----------------------------------------------+
+|               + Hilfskraft                   |
+|----------------------------------------------|
+| - stunden: int                               |
+| - projekt: Projekt                           |
+|----------------------------------------------|
+| + Hilfskraft(stunden: int, projekt: Projekt) |
+| + getStunden(): int                          |
+| - setStunden(value: int)                     |
+| + getProjekt(): Projekt                      |
+| + setProjekt(value: Projekt)                 |
++----------------------------------------------+
+
+
+
+
+
+
+            +-------------+
+            | Mitarbeiter |
+            +-------------+
+                   ^
+                   |
+                   |
++--------------------------------------+
+|        + Wissenschaftler             |
+|--------------------------------------|
+| - titel: string                      |
+| - projekte: List<Projekt>            |
+|--------------------------------------|
+| + Wissenschaftler(titel: string)     |
+| + getTitel(): string                 |
+| - setTitel(value: string)            |
+| + getProjekte(): List<Projekt>       |
+| - setProjekte(value: List<Projekte>) |
++--------------------------------------+
