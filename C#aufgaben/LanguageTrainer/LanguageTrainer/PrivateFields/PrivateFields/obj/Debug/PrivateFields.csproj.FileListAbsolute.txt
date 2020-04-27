@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 4\PrivateFields\PrivateFields\bin\Debug\PrivateFields.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 4\PrivateFields\PrivateFields\bin\Debug\PrivateFields.exe
+W:\Module\Softwareentwicklung\2019\Übung 4\PrivateFields\PrivateFields\bin\Debug\PrivateFields.pdb
+W:\Module\Softwareentwicklung\2019\Übung 4\PrivateFields\PrivateFields\obj\Debug\PrivateFields.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 4\PrivateFields\PrivateFields\obj\Debug\PrivateFields.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 4\PrivateFields\PrivateFields\obj\Debug\PrivateFields.exe
+W:\Module\Softwareentwicklung\2019\Übung 4\PrivateFields\PrivateFields\obj\Debug\PrivateFields.pdb

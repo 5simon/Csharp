@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 9\Set\Set\obj\Debug\Set.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 9\Set\Set\obj\Debug\Set.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 9\Set\Set\bin\Debug\Set.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 9\Set\Set\bin\Debug\Set.exe
+W:\Module\Softwareentwicklung\2019\Übung 9\Set\Set\bin\Debug\Set.pdb
+W:\Module\Softwareentwicklung\2019\Übung 9\Set\Set\obj\Debug\Set.exe
+W:\Module\Softwareentwicklung\2019\Übung 9\Set\Set\obj\Debug\Set.pdb

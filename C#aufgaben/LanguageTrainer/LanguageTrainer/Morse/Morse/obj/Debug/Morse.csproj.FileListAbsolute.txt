@@ -1,0 +1,14 @@
+W:\Module\Softwareentwicklung\2019\Übung 3\Morse\Morse\bin\Debug\Morse.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 3\Morse\Morse\bin\Debug\Morse.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Morse\Morse\bin\Debug\Morse.pdb
+W:\Module\Softwareentwicklung\2019\Übung 3\Morse\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 3\Morse\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 3\Morse\Morse\obj\Debug\Morse.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Morse\Morse\obj\Debug\Morse.pdb
+C:\Users\smon9\Desktop\SWE_2019\Morse\Morse\bin\Debug\Morse.exe.config
+C:\Users\smon9\Desktop\SWE_2019\Morse\Morse\bin\Debug\Morse.exe
+C:\Users\smon9\Desktop\SWE_2019\Morse\Morse\bin\Debug\Morse.pdb
+C:\Users\smon9\Desktop\SWE_2019\Morse\Morse\obj\Debug\Morse.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Morse\Morse\obj\Debug\Morse.csproj.CoreCompileInputs.cache
+C:\Users\smon9\Desktop\SWE_2019\Morse\Morse\obj\Debug\Morse.exe
+C:\Users\smon9\Desktop\SWE_2019\Morse\Morse\obj\Debug\Morse.pdb

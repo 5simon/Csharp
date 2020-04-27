@@ -1,0 +1,7 @@
+C:\Users\treumer\source\repos\SportsOracle\SportsOracle\bin\Debug\SportsOracle.exe.config
+C:\Users\treumer\source\repos\SportsOracle\SportsOracle\bin\Debug\SportsOracle.exe
+C:\Users\treumer\source\repos\SportsOracle\SportsOracle\bin\Debug\SportsOracle.pdb
+C:\Users\treumer\source\repos\SportsOracle\SportsOracle\obj\Debug\SportsOracle.csproj.CoreCompileInputs.cache
+C:\Users\treumer\source\repos\SportsOracle\SportsOracle\obj\Debug\SportsOracle.exe
+C:\Users\treumer\source\repos\SportsOracle\SportsOracle\obj\Debug\SportsOracle.pdb
+C:\Users\treumer\source\repos\SportsOracle\SportsOracle\obj\Debug\SportsOracle.csprojAssemblyReference.cache

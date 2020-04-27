@@ -1,0 +1,14 @@
+W:\Module\Softwareentwicklung\2019\Übung 2\Logical\Logical\bin\Debug\Logical.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 2\Logical\Logical\bin\Debug\Logical.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Logical\Logical\bin\Debug\Logical.pdb
+W:\Module\Softwareentwicklung\2019\Übung 2\Logical\Logical\obj\Debug\Logical.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Logical\Logical\obj\Debug\Logical.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Logical\Logical\obj\Debug\Logical.pdb
+W:\Module\Softwareentwicklung\2019\Übung 2\Logical\Logical\obj\Debug\Logical.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Logical\Logical\bin\Debug\Logical.exe.config
+C:\Users\smon9\Desktop\SWE_2019\Logical\Logical\bin\Debug\Logical.exe
+C:\Users\smon9\Desktop\SWE_2019\Logical\Logical\bin\Debug\Logical.pdb
+C:\Users\smon9\Desktop\SWE_2019\Logical\Logical\obj\Debug\Logical.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Logical\Logical\obj\Debug\Logical.csproj.CoreCompileInputs.cache
+C:\Users\smon9\Desktop\SWE_2019\Logical\Logical\obj\Debug\Logical.exe
+C:\Users\smon9\Desktop\SWE_2019\Logical\Logical\obj\Debug\Logical.pdb

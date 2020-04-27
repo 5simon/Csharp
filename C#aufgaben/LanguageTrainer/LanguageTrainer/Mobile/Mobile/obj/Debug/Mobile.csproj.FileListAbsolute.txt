@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 2\Mobile\Mobile\bin\Debug\Mobile.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 2\Mobile\Mobile\bin\Debug\Mobile.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Mobile\Mobile\bin\Debug\Mobile.pdb
+W:\Module\Softwareentwicklung\2019\Übung 2\Mobile\Mobile\obj\Debug\Mobile.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Mobile\Mobile\obj\Debug\Mobile.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Mobile\Mobile\obj\Debug\Mobile.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Mobile\Mobile\obj\Debug\Mobile.pdb

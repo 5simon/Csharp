@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 2\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 2\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+W:\Module\Softwareentwicklung\2019\Übung 2\Rectangle\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrivateFields", "PrivateFields\PrivateFields.csproj", "{280592F4-E5E8-4707-8724-FD288AA1DD51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280592F4-E5E8-4707-8724-FD288AA1DD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280592F4-E5E8-4707-8724-FD288AA1DD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280592F4-E5E8-4707-8724-FD288AA1DD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280592F4-E5E8-4707-8724-FD288AA1DD51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A899EEB-6A41-42FE-B112-342495ABD9E1}
+	EndGlobalSection
+EndGlobal

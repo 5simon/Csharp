@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 2\LeapYear\LeapYear\bin\Debug\LeapYear.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 2\LeapYear\LeapYear\bin\Debug\LeapYear.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+W:\Module\Softwareentwicklung\2019\Übung 2\LeapYear\LeapYear\obj\Debug\LeapYear.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\LeapYear\LeapYear\obj\Debug\LeapYear.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\LeapYear\LeapYear\obj\Debug\LeapYear.pdb
