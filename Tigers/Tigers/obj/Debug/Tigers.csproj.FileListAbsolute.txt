@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 6\Tigers\Tigers\bin\Debug\Tigers.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 6\Tigers\Tigers\bin\Debug\Tigers.exe
+W:\Module\Softwareentwicklung\2019\Übung 6\Tigers\Tigers\bin\Debug\Tigers.pdb
+W:\Module\Softwareentwicklung\2019\Übung 6\Tigers\Tigers\obj\Debug\Tigers.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 6\Tigers\Tigers\obj\Debug\Tigers.exe
+W:\Module\Softwareentwicklung\2019\Übung 6\Tigers\Tigers\obj\Debug\Tigers.pdb
+W:\Module\Softwareentwicklung\2019\Übung 6\Tigers\Tigers\obj\Debug\Tigers.csprojAssemblyReference.cache

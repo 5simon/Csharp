@@ -1,0 +1,14 @@
+W:\Module\Softwareentwicklung\2019\Übung 3\Worldcup\Worldcup\bin\Debug\Worldcup.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 3\Worldcup\Worldcup\bin\Debug\Worldcup.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Worldcup\Worldcup\bin\Debug\Worldcup.pdb
+W:\Module\Softwareentwicklung\2019\Übung 3\Worldcup\Worldcup\obj\Debug\Worldcup.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 3\Worldcup\Worldcup\obj\Debug\Worldcup.exe
+W:\Module\Softwareentwicklung\2019\Übung 3\Worldcup\Worldcup\obj\Debug\Worldcup.pdb
+W:\Module\Softwareentwicklung\2019\Übung 3\Worldcup\Worldcup\obj\Debug\Worldcup.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Worldcup\Worldcup\bin\Debug\Worldcup.exe.config
+C:\Users\smon9\Desktop\SWE_2019\Worldcup\Worldcup\bin\Debug\Worldcup.exe
+C:\Users\smon9\Desktop\SWE_2019\Worldcup\Worldcup\bin\Debug\Worldcup.pdb
+C:\Users\smon9\Desktop\SWE_2019\Worldcup\Worldcup\obj\Debug\Worldcup.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Worldcup\Worldcup\obj\Debug\Worldcup.csproj.CoreCompileInputs.cache
+C:\Users\smon9\Desktop\SWE_2019\Worldcup\Worldcup\obj\Debug\Worldcup.exe
+C:\Users\smon9\Desktop\SWE_2019\Worldcup\Worldcup\obj\Debug\Worldcup.pdb

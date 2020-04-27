@@ -1,0 +1,14 @@
+W:\Module\Softwareentwicklung\2019\Übung 7\Sticks\Sticks\bin\Debug\Sticks.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 7\Sticks\Sticks\bin\Debug\Sticks.exe
+W:\Module\Softwareentwicklung\2019\Übung 7\Sticks\Sticks\bin\Debug\Sticks.pdb
+W:\Module\Softwareentwicklung\2019\Übung 7\Sticks\Sticks\obj\Debug\Sticks.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 7\Sticks\Sticks\obj\Debug\Sticks.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 7\Sticks\Sticks\obj\Debug\Sticks.exe
+W:\Module\Softwareentwicklung\2019\Übung 7\Sticks\Sticks\obj\Debug\Sticks.pdb
+C:\Users\smon9\Desktop\SWE_2019\Sticks\Sticks\bin\Debug\Sticks.exe.config
+C:\Users\smon9\Desktop\SWE_2019\Sticks\Sticks\bin\Debug\Sticks.exe
+C:\Users\smon9\Desktop\SWE_2019\Sticks\Sticks\bin\Debug\Sticks.pdb
+C:\Users\smon9\Desktop\SWE_2019\Sticks\Sticks\obj\Debug\Sticks.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Sticks\Sticks\obj\Debug\Sticks.csproj.CoreCompileInputs.cache
+C:\Users\smon9\Desktop\SWE_2019\Sticks\Sticks\obj\Debug\Sticks.exe
+C:\Users\smon9\Desktop\SWE_2019\Sticks\Sticks\obj\Debug\Sticks.pdb

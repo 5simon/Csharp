@@ -1,0 +1,7 @@
+W:\Module\Softwareentwicklung\2019\Übung 1\Types\Types\bin\Debug\Types.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 1\Types\Types\bin\Debug\Types.exe
+W:\Module\Softwareentwicklung\2019\Übung 1\Types\Types\bin\Debug\Types.pdb
+W:\Module\Softwareentwicklung\2019\Übung 1\Types\Types\obj\Debug\Types.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 1\Types\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 1\Types\Types\obj\Debug\Types.exe
+W:\Module\Softwareentwicklung\2019\Übung 1\Types\Types\obj\Debug\Types.pdb

@@ -1,0 +1,14 @@
+W:\Module\Softwareentwicklung\2019\Übung 10\Waste\Waste\bin\Debug\Waste.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 10\Waste\Waste\bin\Debug\Waste.exe
+W:\Module\Softwareentwicklung\2019\Übung 10\Waste\Waste\bin\Debug\Waste.pdb
+W:\Module\Softwareentwicklung\2019\Übung 10\Waste\Waste\obj\Debug\Waste.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 10\Waste\Waste\obj\Debug\Waste.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 10\Waste\Waste\obj\Debug\Waste.exe
+W:\Module\Softwareentwicklung\2019\Übung 10\Waste\Waste\obj\Debug\Waste.pdb
+C:\Users\smon9\Desktop\SWE_2019\Waste\Waste\bin\Debug\Waste.exe.config
+C:\Users\smon9\Desktop\SWE_2019\Waste\Waste\bin\Debug\Waste.exe
+C:\Users\smon9\Desktop\SWE_2019\Waste\Waste\bin\Debug\Waste.pdb
+C:\Users\smon9\Desktop\SWE_2019\Waste\Waste\obj\Debug\Waste.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Waste\Waste\obj\Debug\Waste.csproj.CoreCompileInputs.cache
+C:\Users\smon9\Desktop\SWE_2019\Waste\Waste\obj\Debug\Waste.exe
+C:\Users\smon9\Desktop\SWE_2019\Waste\Waste\obj\Debug\Waste.pdb

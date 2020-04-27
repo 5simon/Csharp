@@ -1,0 +1,14 @@
+W:\Module\Softwareentwicklung\2019\Übung 2\Table\Table\bin\Debug\Table.exe.config
+W:\Module\Softwareentwicklung\2019\Übung 2\Table\Table\bin\Debug\Table.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Table\Table\bin\Debug\Table.pdb
+W:\Module\Softwareentwicklung\2019\Übung 2\Table\Table\obj\Debug\Table.csprojAssemblyReference.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+W:\Module\Softwareentwicklung\2019\Übung 2\Table\Table\obj\Debug\Table.exe
+W:\Module\Softwareentwicklung\2019\Übung 2\Table\Table\obj\Debug\Table.pdb
+C:\Users\smon9\Desktop\SWE_2019\Table\Table\bin\Debug\Table.exe.config
+C:\Users\smon9\Desktop\SWE_2019\Table\Table\bin\Debug\Table.exe
+C:\Users\smon9\Desktop\SWE_2019\Table\Table\bin\Debug\Table.pdb
+C:\Users\smon9\Desktop\SWE_2019\Table\Table\obj\Debug\Table.csprojAssemblyReference.cache
+C:\Users\smon9\Desktop\SWE_2019\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\smon9\Desktop\SWE_2019\Table\Table\obj\Debug\Table.exe
+C:\Users\smon9\Desktop\SWE_2019\Table\Table\obj\Debug\Table.pdb
