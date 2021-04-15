@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Comment=Launch example world for RoboCup challenge
+Exec=/home/user/start-robocup-example-world-2.sh
+Terminal=false
+Type=Application
+Categories=Utility;Application;
+Icon=/usr/share/icons/Tango/32x32/mimetypes/gnome-mime-application-x-executable.png
+Name[en_US]=Example World 2
+
